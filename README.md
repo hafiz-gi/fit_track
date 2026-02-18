@@ -7,6 +7,11 @@ Follow step-by-step training sessions with timers, reps counters, and real-time 
 
 Train at home or in the gym with confidence and expert guidance. Simple design, powerful features, real results. Start your transformation today and become your strongest self.
 
+## 📸 Screenshots
+  <img src="images/fittrack pro.png"/>
+  <img src="images/fittrack pro mockups.png"/>
+
+
 ## 🛠️ Tech Stack
 - Flutter
 - Firebase
