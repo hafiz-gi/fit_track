@@ -9,7 +9,7 @@ Train at home or in the gym with confidence and expert guidance. Simple design, 
 
 ## 📸 Screenshots
   <img src="images/fittrack pro.png"/>
-  <img src="images/fittrack pro mockups.png"/>
+  <img src="images/fittrack mockups.png"/>
 
 
 ## 🛠️ Tech Stack
